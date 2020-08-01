@@ -1,7 +1,7 @@
 {
-  "name": "datapane_mpa",
+  "name": "demo_python_a",
   "version": "1.0.0",
-  "description": "Django React Hybrid app",
+  "description": "Django React App",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js --progress --colors --mode development",
